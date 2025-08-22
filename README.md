@@ -1,4 +1,4 @@
-# [LFJ](https://lfj.gg) TokenMill Trading Bot
+# [LFJ](https://lfj.gg/trenches/tokenmill) TokenMill Trading Bot
 ## Create Transaction Example
 https://solscan.io/tx/3oomLUCVM4SPKkpfqsMSfcJqqmicjpRyFiC46YvJNkHyZEggFZyUNnr6gNvBjCTJ3ResTxBTJxjbYYEnZEvvm6to
 
